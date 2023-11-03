@@ -1,0 +1,16 @@
+{
+  "name": "@eppo/js-static-page-sdk",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "files": [
+    "/dist"
+  ],
+  "typings": "dist/js-client-sdk.d.ts",
+  "repository": "git@github.com:Eppo-exp/static-page-experiments.git",
+  "author": "eng@geteppo.com",
+  "license": "MIT",
+  "jsdelivr": "dist/eppo-js-static-page-sdk.js",
+  "dependencies": {
+    "@eppo/js-client-sdk": "^1.4.0"
+  }
+}
